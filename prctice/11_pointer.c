@@ -50,3 +50,4 @@ int main ()
 // 1012-1000= 12/4= 3
 
 //(*x)++ this will increment valu not pointer
+//in printf *x (here * means) means value of the address
